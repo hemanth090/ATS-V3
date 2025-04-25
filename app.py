@@ -12,6 +12,9 @@ from datetime import datetime
 # Load environment variables
 load_dotenv()
 
+# Temporary debug print - remove after confirming
+print("GROQ_API_KEY present:", bool(os.getenv('GROQ_API_KEY')))
+
 app = Flask(__name__)
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16MB max file size
 
