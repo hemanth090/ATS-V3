@@ -76,6 +76,3 @@ The application will be available at `http://localhost:5000`
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-MIT License 
