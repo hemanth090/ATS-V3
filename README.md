@@ -16,7 +16,7 @@ A web application that analyzes resumes against job descriptions using Groq AI t
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/hemanth090/ATS-V3.git
 cd ats-resume-analyzer
 ```
 
